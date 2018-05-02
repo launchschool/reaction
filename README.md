@@ -30,6 +30,9 @@ The starter app already implements creating and listing boards. The associated t
 $ bin/rails test
 ```
 
+## A note on client-side Routing
+Client-side routing can be a slippery concept to grasp at first. Read [this gist](https://launchschool.com/gists/d6c907f0) to get an idea of the basics.
+
 ## Where code should live
 
 * Ruby/Rails code should continue to live in its appropriate directory within

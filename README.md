@@ -20,9 +20,6 @@ The directory structure is basically the same as any rails application but with 
 - Run `rails db:setup` to setup the database
 - `rails s` to start the application
 
-## Building Rails API's
-Read [this article](https://collectiveidea.com/blog/archives/2013/06/13/building-awesome-rails-apis-part-1) to get an overview of how to build Rails API's.
-
 ## Testing Rails API's
 The starter app already implements creating and listing boards. The associated tests are in `/test/integration/boards_api_test.rb`. Read this file to get an idea of about testing the request/response cycle of the API. To run your tests:
 
